@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bartosz Duch</h1>
+<h1 align="center">Hi 👋, I'm Bartosz</h1>
 <h3 align="center">ICT student from Kraków</h3>
 
 <h3 align="left">Connect with me:</h3>
