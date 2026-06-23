@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
-<h3 align="center"> Fourth-Year CS student from Warsaw University Of Technology</h3>
+
+Computer Science student at Warsaw University of Technology and ICT graduate from AGH University of Krakow.
+
+I focus on backend development, Linux systems, networking, infrastructure and cloud-oriented engineering. I enjoy building practical systems, automating workflows, working close to the operating system, and understanding how applications are deployed, monitored and connected in real environments.
+
+My main areas of interest are backend engineering, DevOps, cloud infrastructure, computer networks, Linux administration and automation. I also have experience with machine learning and data-driven projects, especially where they connect with real-world systems.
+
+## Featured Projects
+
+- IoT Pot Plants – FastAPI backend for an IoT plant monitoring system with device management, sensor data ingestion, WebSocket updates and background tasks.
+- Backend Kubernetes Deployment – Docker/Kubernetes/Helm deployment project with Locust load testing.
+- Wireless Localization – magnetic-field-based 3D localization simulation with multilateration and error analysis.
+- Stochastic GMM Audio Classifier – audio classification project using MFCC features and Gaussian Mixture Models.
+- Monte Carlo VaR – Python simulation for portfolio risk estimation using historical data and bootstrap Monte Carlo scenarios.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
